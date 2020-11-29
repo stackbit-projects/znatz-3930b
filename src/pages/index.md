@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 初めて
+    title: ''
     content: CodeSandBoxでCatalystをテストしようとしたところ。新規作成でここまで誘導させた。
   - section_id: about
     type: section_content
